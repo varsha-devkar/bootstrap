@@ -1,0 +1,15 @@
+{
+  "name": "b4-layout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass" : "node-sass D:/UI/b4-layout/assets/scss/style.scss  D:/UI/b4-layout/assets/css/style.css -w"  
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
